@@ -12,6 +12,7 @@ namespace WebApplication3
     {
         protected void Application_Start()
         {//sss2AAAAAA
+            //ssss
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
